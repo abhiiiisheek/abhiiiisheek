@@ -1,114 +1,165 @@
-<h1 align="center">👋 Hi, I'm Abhishek Kumar</h1>
-<h3 align="center">B.Tech CSE Student | Quantum Computing Enthusiast | IoT & Robotics Developer</h3>
+# 👋 Hi, I'm Abhishek Kumar
+
+🎓 B.Tech Computer Science (2nd Year)  
+🔬 Research Interests: Quantum Computing • Cryptography • Robotics • Secure Systems  
+⚙️ Building projects combining hardware, algorithms, and security.
 
 ---
 
-## ⚛️ About Me
+## 🧠 About Me
 
-- 🎓 Second-year **B.Tech Computer Science** student  
-- 🛰️ **Summer Intern at India Space Lab**  
-- 🔬 Strong interest in **Quantum Computing, Quantum Algorithms & Quantum Hardware**  
-- 🤖 Working at the intersection of **IoT, Robotics, Embedded Systems & Cloud**  
-- 🌱 Currently preparing **DSA (Java)** & exploring **IBM Quantum / Qiskit**  
+I am a Computer Science undergraduate interested in **research-driven engineering and advanced computing systems**.
 
-> *“Exploring computation beyond classical limits.”*
+My work focuses on:
 
----
+- ⚛️ Quantum computing and quantum algorithms
+- 🔐 Cryptography and cryptanalysis
+- 🤖 Robotics and embedded systems
+- 🌲 IoT systems for environmental monitoring
 
-## ⚛️ Quantum Computing Focus
-
-- 🧪 Hands-on with **IBM Quantum Composer & Qiskit**  
-- 📘 Studying:
-  - Quantum Gates & Circuits  
-  - Qubits, Superposition & Entanglement  
-  - Quantum Algorithms (Grover, Deutsch–Jozsa – upcoming)  
-- 🔭 Interested in:
-  - Quantum Hardware & Neutral Atom Systems  
-  - Quantum Imaging & Quantum Information  
+I enjoy building **experimental systems and research prototypes** that combine software, hardware, and mathematical concepts.
 
 ---
 
-## 🏆 Achievements & Highlights
+# 🚀 Featured Projects
 
-- 🥉 **Bronze Medal** – 200m Athletics  
-- 🤖 **Winner (Level 1)** & **Second Runner-Up (Level 2)** – Enigma Robotics  
-- ⚽ **Second Runner-Up** – College Football Team  
-- 🎤 **Winner** – College Open Mic (Stand-up Comedy)  
-- 📜 Completed **Machine Learning – Columbia University**  
-- 🌍 Selected for **Open Source Connect**  
+## ⚛️ Quantum Teleportation Simulation
+Implementation of the **quantum teleportation protocol using Bell states**.
 
----
+Concepts explored:
+- Quantum entanglement
+- Bell state preparation
+- Quantum measurement
+- Classical correction
 
-## 🛠️ Featured Projects
-
-### 🔥 TEJAS – IoT Based Forest Fire Monitoring  
-- ESP32 + Sensors + Cloud + Twilio + Telegram Bot  
-- Real-time alerts & automated fire detection  
-
-### 🤖 Path Tracing Robot  
-- Arduino Nano, L298N, Obstacle Detection  
-- Line/path following with sensor fusion  
-
-### 🐍 Snake Game in C (Windows Console)  
-- Custom cursor movement & modular logic  
-- Easily extendable game framework  
-
-### 🚜 KrishiDrone (Ongoing)  
-- Drone-assisted agricultural monitoring  
-- Focus on automation & smart farming  
-
-### ⚛️ Quantum Experiments (In Progress)  
-- IBM Quantum Composer circuits  
-- Qiskit-based algorithm simulations  
+Tools used:
+- Python
+- Qiskit
 
 ---
 
-## ⚙️ Tech Stack
+## 🔐 Quantum Cryptanalysis of a Toy XOR Cipher
 
-### Programming
-`Java` `C` `Python` `JavaScript`  
+Exploring how **Grover’s algorithm can accelerate key search in symmetric cryptography**.
 
-### Quantum
-`Qiskit` `IBM Quantum Composer` `Quantum Circuits`  
+Key ideas:
 
-### Core CS
-- Data Structures & Algorithms  
-- Object Oriented Programming  
-- Computer Organization & Digital Logic  
-- Probability & Linear Algebra  
+- Quantum search
+- Grover iterations
+- Circuit-based cryptanalysis
 
-### Hardware / IoT
-`Arduino` `ESP32` `Sensors` `Embedded C`  
+Built using:
 
-### Tools
-`Git` `GitHub` `Linux`  
+- Qiskit
+- Python
 
 ---
 
-## 📚 Currently Learning
+## 🔥 TEJAS – IoT Forest Fire Monitoring System
 
-- Advanced **DSA in Java**   
-- **Quantum Algorithms & Quantum Hardware Concepts**  
-- **AWS Cloud Computing**  
-- Embedded Systems & Robotics  
+An **IoT-based forest fire detection system** designed for early fire detection.
 
----
+Architecture includes:
 
-## 📈 GitHub Stats
+- ESP32 microcontroller
+- Fire and environmental sensors
+- DigitalOcean cloud server
+- Twilio SMS alerts
+- Telegram bot notifications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
-</p>
+Goal:
 
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn:  https://www.linkedin.com/in/abhishek-kumar-6a458b329/
-- 📧 Email: abhisheksky16112007@gmail.com 
+Early detection of forest fires and automated alerts.
 
 ---
 
-⭐ *Focused on building the future with quantum, code, and curiosity.*
+## 🤖 Path Tracing Robot
 
+Autonomous robot capable of **following predefined paths and detecting obstacles**.
+
+Hardware components:
+
+- Arduino Nano
+- L298N motor driver
+- Infrared sensors
+- DC motors
+
+Focus:
+
+- Sensor-based control
+- Embedded logic
+- Robotics prototyping
+
+---
+
+## 💬 Offline Peer-to-Peer Chat (Java)
+
+A **Java-based peer-to-peer communication system** designed to work without internet connectivity.
+
+Concepts used:
+
+- Java sockets
+- Local network communication
+- Peer-to-peer architecture
+
+Goal:
+
+Offline communication between nearby devices.
+
+---
+
+# 🧰 Tech Stack
+
+### Languages
+- C
+- Java
+- Python
+- JavaScript
+
+### Technologies
+- Qiskit
+- ESP32
+- Arduino
+- Linux
+- Git
+
+### Areas of Interest
+- Quantum Computing
+- Cryptography
+- Embedded Systems
+- Robotics
+- IoT Systems
+
+---
+
+# 🌱 Currently Learning
+
+- Quantum Algorithms
+- Quantum based Cryptanalysis
+- Cryptography
+- Data Structures & Algorithms (Java)
+- Hardware Engineering
+- Embedded Systems
+
+---
+
+# 🎯 Research Interests
+
+I am interested in exploring research problems in:
+
+- Quantum cryptanalysis
+- Quantum algorithms
+- Secure communication systems
+- Autonomous robotic systems
+- Distributed and embedded systems
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/abhishek-kumar-6a458b329
+- Email: abhisheksky16112007@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and projects!
