@@ -14,10 +14,9 @@ My work focuses on:
 
 - ⚛️ Quantum computing and quantum algorithms
 - 🔐 Cryptography and cryptanalysis
-- 🤖 Robotics and embedded systems
 - 🌲 IoT systems for environmental monitoring
 
-I enjoy building **experimental systems and research prototypes** that combine software, hardware, and mathematical concepts.
+I enjoy building **experimental systems and research prototypes** that combine software and mathematical concepts.
 
 ---
 
@@ -73,25 +72,6 @@ Early detection of forest fires and automated alerts.
 
 ---
 
-## 🤖 Path Tracing Robot
-
-Autonomous robot capable of **following predefined paths and detecting obstacles**.
-
-Hardware components:
-
-- Arduino Nano
-- L298N motor driver
-- Infrared sensors
-- DC motors
-
-Focus:
-
-- Sensor-based control
-- Embedded logic
-- Robotics prototyping
-
----
-
 ## 💬 Offline Peer-to-Peer Chat (Java)
 
 A **Java-based peer-to-peer communication system** designed to work without internet connectivity.
@@ -119,16 +99,14 @@ Offline communication between nearby devices.
 ### Technologies
 - Qiskit
 - ESP32
-- Arduino
 - Linux
 - Git
 
 ### Areas of Interest
 - Quantum Computing
 - Cryptography
-- Embedded Systems
-- Robotics
-- IoT Systems
+- Quantum Image processing
+- Quantum Cryptanalysis
 
 ---
 
@@ -139,7 +117,6 @@ Offline communication between nearby devices.
 - Cryptography
 - Data Structures & Algorithms (Java)
 - Hardware Engineering
-- Embedded Systems
 
 ---
 
@@ -150,8 +127,6 @@ I am interested in exploring research problems in:
 - Quantum cryptanalysis
 - Quantum algorithms
 - Secure communication systems
-- Autonomous robotic systems
-- Distributed and embedded systems
 
 ---
 
