@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Abhishek Kumar
 
-🎓 B.Tech Computer Science (2nd Year)  
-🔬 Research Interests: Quantum Computing • Cryptography • Robotics • Secure Systems  
-⚙️ Building projects combining hardware, algorithms, and security.
-
+🎓 B.Tech Computer Science (3rd Year)  
+🔬 Research Interests: Quantum Computing • Cryptography • Secure Systems  
 ---
 
 ## 🧠 About Me
@@ -116,7 +114,6 @@ Offline communication between nearby devices.
 - Quantum based Cryptanalysis
 - Cryptography
 - Data Structures & Algorithms (Java)
-- Hardware Engineering
 
 ---
 
